@@ -8,7 +8,7 @@ An online demo of the game can be found [here](https://www.chiark.greenend.org.u
 
 ## User Story
 
-[![Overview](https://github.com/CastleLab/COMP3021-2021Fall-PA2-Student-Version/raw/main/img/Overview.png)](https://github.com/CastleLab/COMP3021-2021Fall-PA2-Student-Version/blob/main/img/Overview.png)
+![Overview](/Users/zhouduo/Downloads/Overview.png)
 
 - First, the user runs the game and sees the main menu, which contains the name of the game and a button for loading the game from a file.
 
