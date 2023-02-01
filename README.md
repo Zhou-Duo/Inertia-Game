@@ -8,7 +8,7 @@ An online demo of the game can be found [here](https://www.chiark.greenend.org.u
 
 ## User Story
 
-![Overview](/Users/zhouduo/Downloads/Overview.png)
+![Overview](img/Overview.png)
 
 - First, the user runs the game and sees the main menu, which contains the name of the game and a button for loading the game from a file.
 
